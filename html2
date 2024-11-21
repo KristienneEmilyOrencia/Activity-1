@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html> 
+<head><center> 
+ <title><b>Welcome to my First Website!</b></title>
+</head>
+
+<body>
+<p>
+<h1>Welcome to my First Website!</h1>
+I am Kristienne Emily F. Orencia and this is my activity in Computer 8.
+<h2>Here are my hobbies!</h2></p>
+
+<ul>
+   <li>Drawing/painting</li>
+   <li>Crocheting</li>
+   <li>Reading</li>
+   <li>Writing</li>
+</ul>
+
+<h2>Here is my favorite drawing.</h2>
+<img src="1000049277.jpg" alt="A watercolor of a mountain and a river flowing through a forest"</img> 
+
+<h2>My Social Media</h2>
+<a href="https://www.instagram.com/ast.jde/">@ast.jde on Instagram</a>
+</center>
+
+</body>
+
+<br>
+<footer><center>&copy; All rights reserved.</center></footer>
+
+</html>
